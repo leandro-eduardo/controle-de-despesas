@@ -31,7 +31,6 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
   <img alt="App Desktop Layout" title="App Desktop Layout" src="app-desktop.png" width="400px">
 </p>
 
-
 ## 🦸 Autor
 
 <table>
@@ -46,7 +45,6 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
       </a>
     </td>
 </table>
-
 
 > Feito com ❤️ por Leandro Eduardo 👋🏽
 

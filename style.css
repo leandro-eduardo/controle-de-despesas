@@ -85,7 +85,6 @@ label {
 input[type="text"],
 input[type="number"] {
   border: 1px solid #dedede;
-  border-radius: 2px;
   display: block;
   font-size: 16px;
   padding: 10px;
@@ -156,4 +155,14 @@ input[type="number"] {
 
 .transactions li:hover .delete-btn {
   opacity: 1;
+}
+
+.alert-message {
+  margin-top: 10px;
+  font-size: 14px;
+  padding: 10px;
+  border: 1px solid #ebccd1;
+  border-radius: 5px;
+  color: #a94442;
+  background-color: #f2dede;
 }
