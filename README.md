@@ -11,7 +11,7 @@
   
 ## 👨🏽‍💻 Ajustes e melhorias
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+O projeto estava em desenvolvimento quando foi adicionado ao repositório mas foi concluído com base nas seguintes tarefas:
 
 - [x] Adicionar uma transação
 - [x] Remover uma transação
