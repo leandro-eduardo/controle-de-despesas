@@ -13,9 +13,9 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [ ] Adicionar uma transação
-- [ ] Remover uma transação
-- [ ] Compor saldo (receitas - despesas)
+- [x] Adicionar uma transação
+- [x] Remover uma transação
+- [x] Compor saldo (receitas - despesas)
 
 ## 🎨 Layout
 
