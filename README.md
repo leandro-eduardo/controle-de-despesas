@@ -31,7 +31,7 @@ O projeto estava em desenvolvimento quando foi adicionado ao repositório mas fo
   <img alt="App Desktop Layout" title="App Desktop Layout" src="app-desktop.png" width="400px">
 </p>
 
-## 🦸 Autor
+## 🦸‍♂️ Autor
 
 <table>
   <tr>
