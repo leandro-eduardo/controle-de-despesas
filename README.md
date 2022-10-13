@@ -37,7 +37,7 @@ O projeto estava em desenvolvimento quando foi adicionado ao repositório mas fo
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://media-exp1.licdn.com/dms/image/C4D03AQF1J4MY1bNjyg/profile-displayphoto-shrink_800_800/0/1581965701866?e=1649289600&v=beta&t=27-LFXUrqFTK7oWIGUIcDhjUtXlkALsJYjdxIrN5z38" width="100px;" alt="Imagem do autor"/>
+        <img src="https://avatars.githubusercontent.com/u/34320615?v=4" width="100px;" alt="Imagem do autor"/>
 <br>
         <sub>
           <b><a href="https://github.com/leandro-eduardo" title="GitHub"><sub><b>Leandro Eduardo</b></sub></a></b>
